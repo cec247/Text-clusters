@@ -1,0 +1,100 @@
+PFont font = createFont("Gill Sans"); 
+color[] d3_10 = [#1f77b4, #ff7f0e, #2ca02c, #d62728, #9467bd, #8c564b, #e377c2, #7f7f7f, #bcbd22, #17becf];
+
+void setup() 
+{
+    size(window.innerWidth, window.innerHeight);
+
+    textFont(font, 18);
+    window.onresize = function() { redraw(); }
+     
+    noLoop();
+}
+
+
+
+float letterArea(int point_size)
+{
+    textFont(font, point_size); 
+    // instead of M, look at the distribution and use the weighted size
+    int w = textWidth("n");
+    int h = textAscent() + textDescent();
+    return w*h;
+}
+
+float log10 (int x) {
+  return (log(x) / log(10));
+}
+
+int getCluster(int term_index)
+{
+    for (int i = 0; i < clusters.length; i++)
+    {
+        for (int j = 0; j < clusters[i].length; j++)
+           if (clusters[i][j] == term_index)
+               return i;
+    }
+    return -1;
+}
+
+void draw() 
+{
+    if (window.innerWidth != width || window.innerHeight != height)
+        size(window.innerWidth, window.innerHeight);
+    
+    background(255); 
+    fill(0);
+
+    // limits?
+    int start = 0;
+    int stop = terms.length;
+
+    // set text size up
+    int total_letters = 0;
+    for (int i = start; i < stop; i++)
+    {
+        String term = terms[i];
+        total_letters += term.length() + 1;
+    }
+
+    float max_letter_size = 2*width * height / total_letters;
+    int point_size = 3; // starting min
+    do {
+        point_size += .1;
+    } while (letterArea(point_size)*total_letters < (width*height));
+    point_size -= .1;
+
+    textFont(font, point_size);
+    textAlign(LEFT, TOP);
+    int h = textAscent() + textDescent();
+
+    int x = 0;
+    int y = 0;
+    colorMode(HSB);
+    for (int i = start; i < stop; i++)
+    {
+        int count = counts[i];
+        String term = terms[i] + " ";
+        float w = textWidth(term);
+        if (width < x + w) // wraparound
+        {
+            x = 0;
+            y += h;
+        }
+
+        int cluster = getCluster(i); 
+        color c = d3_10[cluster];
+        if (count == 1)
+        {
+            fill(c);
+        }
+        else
+        {
+            fill(200);
+        }
+
+        text(term, x, y);
+        x += w;
+    }
+}
+

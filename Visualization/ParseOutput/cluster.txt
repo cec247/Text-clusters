@@ -1,0 +1,528 @@
+{"name": "abil", "size": 4}
+{"name": "absolut", "size": 5}
+{"name": "accent", "size": 5}
+{"name": "accept", "size": 5}
+{"name": "access", "size": 5}
+{"name": "account", "size": 5}{"name": "account_answer", "size": 1}
+{"name": "acct", "size": 5}
+{"name": "accur", "size": 5}{"name": "accur_answer", "size": 1}
+{"name": "act", "size": 5}
+{"name": "action", "size": 5}
+{"name": "activ", "size": 4}
+{"name": "actual", "size": 3}
+{"name": "ad", "size": 4}
+{"name": "add", "size": 4}
+{"name": "addit", "size": 3}
+{"name": "address", "size": 5}{"name": "address_question", "size": 1}
+{"name": "advic", "size": 5}
+{"name": "advis", "size": 5}
+{"name": "agent", "size": 5}
+{"name": "alot", "size": 4}
+{"name": "altern", "size": 4}
+{"name": "american", "size": 5}
+{"name": "amount", "size": 4}
+{"name": "an", "size": 1}
+{"name": "annoi", "size": 3}
+{"name": "anser", "size": 1}{"name": "anser_question", "size": 1}
+{"name": "answer", "size": 5}{"name": "answer_answer", "size": 1}{"name": "answer_ask", "size": 1}{"name": "answer_call", "size": 1}{"name": "answer_concern", "size": 1}{"name": "answer_didnt", "size": 1}{"name": "answer_easi", "size": 1}{"name": "answer_email", "size": 1}{"name": "answer_enquiri", "size": 1}{"name": "answer_gave", "size": 1}{"name": "answer_help", "size": 1}{"name": "answer_inquiri", "size": 1}{"name": "answer_issu", "size": 1}{"name": "answer_need", "size": 1}{"name": "answer_paypal", "size": 1}{"name": "answer_phone", "size": 1}{"name": "answer_polit", "size": 1}{"name": "answer_problem", "size": 2}{"name": "answer_promptli", "size": 1}{"name": "answer_queri", "size": 1}{"name": "answer_question", "size": 3}{"name": "answer_quick", "size": 1}{"name": "answer_quickli", "size": 3}{"name": "answer_resolv", "size": 1}{"name": "answer_satisfact", "size": 1}{"name": "answer_simpl", "size": 1}{"name": "answer_specif", "size": 1}{"name": "answer_time", "size": 1}{"name": "answer_understand", "size": 1}{"name": "answer_understood", "size": 1}{"name": "answer_want", "size": 1}
+{"name": "answerd", "size": 1}{"name": "answerd_question", "size": 1}
+{"name": "anwser", "size": 1}{"name": "anwser_question", "size": 1}
+{"name": "appear", "size": 3}
+{"name": "appreci", "size": 5}
+{"name": "ask", "size": 5}{"name": "ask_answer", "size": 1}{"name": "ask_question", "size": 3}
+{"name": "assist", "size": 5}
+{"name": "assur", "size": 5}
+{"name": "attempt", "size": 4}
+{"name": "attent", "size": 5}
+{"name": "attitud", "size": 5}
+{"name": "autom", "size": 4}
+{"name": "awesom", "size": 5}
+{"name": "back", "size": 5}{"name": "back_answer", "size": 1}
+{"name": "bad", "size": 4}
+{"name": "balanc", "size": 3}
+{"name": "bank", "size": 5}{"name": "bank_account", "size": 4}
+{"name": "base", "size": 3}
+{"name": "basic", "size": 3}
+{"name": "beat", "size": 1}
+{"name": "big", "size": 5}
+{"name": "bill", "size": 5}
+{"name": "bit", "size": 5}
+{"name": "bui", "size": 5}{"name": "bui_onlin", "size": 4}{"name": "bui_sell", "size": 5}{"name": "bui_thing", "size": 3}
+{"name": "busi", "size": 5}
+{"name": "button", "size": 4}
+{"name": "buyer", "size": 5}{"name": "buyer_seller", "size": 2}
+{"name": "call", "size": 5}{"name": "call_answer", "size": 1}{"name": "call_back", "size": 4}{"name": "call_question", "size": 1}
+{"name": "calm", "size": 5}
+{"name": "cancel", "size": 5}
+{"name": "card", "size": 5}{"name": "card_answer", "size": 1}{"name": "card_info", "size": 3}{"name": "card_number", "size": 4}
+{"name": "care", "size": 5}{"name": "care_problem", "size": 5}{"name": "care_question", "size": 1}
+{"name": "carefulli", "size": 4}
+{"name": "case", "size": 5}
+{"name": "cash", "size": 4}
+{"name": "chanc", "size": 2}
+{"name": "chang", "size": 5}
+{"name": "charg", "size": 5}
+{"name": "cheaper", "size": 2}
+{"name": "check", "size": 5}{"name": "check_account", "size": 5}
+{"name": "claim", "size": 5}
+{"name": "clarifi", "size": 2}
+{"name": "clariti", "size": 1}
+{"name": "clear", "size": 5}{"name": "clear_answer", "size": 1}{"name": "clear_concis", "size": 2}
+{"name": "clearer", "size": 1}
+{"name": "click", "size": 4}
+{"name": "close", "size": 5}
+{"name": "collect", "size": 2}
+{"name": "comfort", "size": 5}
+{"name": "commun", "size": 5}
+{"name": "compani", "size": 5}
+{"name": "compet", "size": 4}
+{"name": "complaint", "size": 5}
+{"name": "complet", "size": 5}{"name": "complet_answer", "size": 1}
+{"name": "complic", "size": 5}
+{"name": "comprehens", "size": 1}
+{"name": "comput", "size": 5}
+{"name": "concern", "size": 5}{"name": "concern_answer", "size": 1}{"name": "concern_question", "size": 1}
+{"name": "concis", "size": 4}{"name": "concis_answer", "size": 1}
+{"name": "confid", "size": 5}{"name": "confid_answer", "size": 1}
+{"name": "confirm", "size": 5}
+{"name": "confus", "size": 5}
+{"name": "connect", "size": 5}
+{"name": "contact", "size": 5}
+{"name": "continu", "size": 5}
+{"name": "conveni", "size": 5}{"name": "conveni_answer", "size": 1}{"name": "conveni_easi", "size": 2}{"name": "conveni_pai", "size": 3}{"name": "conveni_safe", "size": 3}{"name": "conveni_secur", "size": 3}
+{"name": "convers", "size": 5}
+{"name": "convien", "size": 2}
+{"name": "convieni", "size": 2}
+{"name": "convient", "size": 3}
+{"name": "correct", "size": 5}{"name": "correct_answer", "size": 1}
+{"name": "correctli", "size": 4}
+{"name": "cost", "size": 5}
+{"name": "couldnt", "size": 5}{"name": "couldnt_answer", "size": 1}
+{"name": "countri", "size": 3}
+{"name": "coupl", "size": 3}
+{"name": "courteou", "size": 5}{"name": "courteou_answer", "size": 1}
+{"name": "courteous", "size": 1}
+{"name": "cover", "size": 5}
+{"name": "credit", "size": 5}{"name": "credit_card", "size": 5}
+{"name": "custom", "size": 5}{"name": "custom_servic", "size": 5}{"name": "custom_support", "size": 5}
+{"name": "cut", "size": 4}
+{"name": "dai", "size": 5}
+{"name": "date", "size": 3}
+{"name": "deal", "size": 5}
+{"name": "dealt", "size": 5}
+{"name": "debit", "size": 5}{"name": "debit_card", "size": 5}
+{"name": "definit", "size": 1}
+{"name": "delai", "size": 4}
+{"name": "depart", "size": 3}
+{"name": "depend", "size": 5}
+{"name": "deposit", "size": 4}
+{"name": "detail", "size": 5}{"name": "detail_answer", "size": 1}{"name": "detail_question", "size": 1}
+{"name": "determin", "size": 3}
+{"name": "didnt", "size": 5}{"name": "didnt_answer", "size": 1}{"name": "didnt_understand", "size": 1}
+{"name": "difficult", "size": 5}
+{"name": "direct", "size": 5}{"name": "direct_answer", "size": 1}
+{"name": "directli", "size": 5}
+{"name": "disconnect", "size": 3}
+{"name": "discuss", "size": 3}
+{"name": "disput", "size": 5}
+{"name": "doesnt", "size": 3}
+{"name": "dont", "size": 5}{"name": "dont_answer", "size": 1}{"name": "dont_give", "size": 3}{"name": "dont_understand", "size": 2}
+{"name": "doubl", "size": 2}
+{"name": "doubt", "size": 1}
+{"name": "due", "size": 4}
+{"name": "earn", "size": 3}
+{"name": "eas", "size": 5}
+{"name": "easi", "size": 5}{"name": "easi_answer", "size": 1}{"name": "easi_conveni", "size": 4}{"name": "easi_custom", "size": 3}{"name": "easi_effici", "size": 2}{"name": "easi_fast", "size": 2}{"name": "easi_great", "size": 4}{"name": "easi_help", "size": 2}{"name": "easi_make", "size": 3}{"name": "easi_pai", "size": 4}{"name": "easi_question", "size": 1}{"name": "easi_quick", "size": 3}{"name": "easi_receiv", "size": 1}{"name": "easi_reliabl", "size": 2}{"name": "easi_safe", "size": 4}{"name": "easi_secur", "size": 3}{"name": "easi_send", "size": 3}{"name": "easi_set", "size": 3}{"name": "easi_understand", "size": 4}{"name": "easi_work", "size": 3}
+{"name": "easier", "size": 5}
+{"name": "easiest", "size": 5}{"name": "easiest_pai", "size": 2}{"name": "easiest_safest", "size": 2}
+{"name": "easili", "size": 5}
+{"name": "ebai", "size": 5}{"name": "ebai_answer", "size": 1}
+{"name": "effect", "size": 5}
+{"name": "effici", "size": 5}{"name": "effici_answer", "size": 1}
+{"name": "effort", "size": 4}
+{"name": "email", "size": 5}{"name": "email_address", "size": 5}{"name": "email_answer", "size": 1}
+{"name": "employe", "size": 5}
+{"name": "end", "size": 5}
+{"name": "english", "size": 5}
+{"name": "enquiri", "size": 3}
+{"name": "ensur", "size": 4}
+{"name": "enter", "size": 5}
+{"name": "exact", "size": 2}{"name": "exact_answer", "size": 1}
+{"name": "excel", "size": 5}{"name": "excel_answer", "size": 1}{"name": "excel_custom", "size": 4}{"name": "excel_servic", "size": 4}
+{"name": "exchang", "size": 2}
+{"name": "expect", "size": 5}
+{"name": "expens", "size": 4}
+{"name": "experi", "size": 2}{"name": "experi_answer", "size": 2}
+{"name": "explain", "size": 5}{"name": "explain_answer", "size": 2}{"name": "explain_detail", "size": 2}{"name": "explain_question", "size": 1}{"name": "explain_thing", "size": 5}
+{"name": "explan", "size": 5}
+{"name": "extra", "size": 5}
+{"name": "extrem", "size": 5}{"name": "extrem_help", "size": 5}
+{"name": "fact", "size": 5}
+{"name": "fair", "size": 2}
+{"name": "fairli", "size": 2}
+{"name": "fashion", "size": 1}
+{"name": "fast", "size": 5}{"name": "fast_answer", "size": 1}{"name": "fast_conveni", "size": 2}{"name": "fast_easi", "size": 3}{"name": "fast_safe", "size": 3}{"name": "fast_secur", "size": 3}
+{"name": "faster", "size": 4}
+{"name": "fastest", "size": 3}
+{"name": "fault", "size": 5}
+{"name": "fee", "size": 5}{"name": "fee_answer", "size": 1}{"name": "fee_high", "size": 4}
+{"name": "feedback", "size": 3}
+{"name": "feel", "size": 5}{"name": "feel_safe", "size": 2}{"name": "feel_secur", "size": 2}
+{"name": "felt", "size": 5}
+{"name": "figur", "size": 5}
+{"name": "file", "size": 3}
+{"name": "final", "size": 4}
+{"name": "financi", "size": 5}
+{"name": "find", "size": 5}{"name": "find_answer", "size": 1}
+{"name": "fine", "size": 5}
+{"name": "finish", "size": 4}
+{"name": "fix", "size": 5}{"name": "fix_problem", "size": 5}
+{"name": "follow", "size": 5}
+{"name": "form", "size": 5}
+{"name": "forward", "size": 5}{"name": "forward_answer", "size": 1}
+{"name": "found", "size": 5}{"name": "found_answer", "size": 1}
+{"name": "fraud", "size": 5}
+{"name": "fraudul", "size": 4}
+{"name": "free", "size": 4}{"name": "free_answer", "size": 1}
+{"name": "friend", "size": 5}{"name": "friend_answer", "size": 1}
+{"name": "friendli", "size": 5}{"name": "friendli_answer", "size": 1}{"name": "friendli_help", "size": 5}{"name": "friendli_manner", "size": 2}{"name": "friendli_profession", "size": 2}
+{"name": "frustrat", "size": 5}
+{"name": "full", "size": 4}
+{"name": "fulli", "size": 5}{"name": "fulli_answer", "size": 1}
+{"name": "fund", "size": 5}{"name": "fund_answer", "size": 1}
+{"name": "futur", "size": 5}
+{"name": "gave", "size": 5}{"name": "gave_answer", "size": 1}{"name": "gave_clear", "size": 2}{"name": "gave_correct", "size": 1}{"name": "gave_inform", "size": 3}{"name": "gave_quick", "size": 1}
+{"name": "gener", "size": 5}
+{"name": "give", "size": 5}{"name": "give_answer", "size": 1}{"name": "give_credit", "size": 3}
+{"name": "good", "size": 5}{"name": "good_answer", "size": 1}{"name": "good_custom", "size": 4}{"name": "good_servic", "size": 4}
+{"name": "great", "size": 5}{"name": "great_answer", "size": 1}{"name": "great_custom", "size": 4}{"name": "great_pai", "size": 3}{"name": "great_safe", "size": 2}{"name": "great_servic", "size": 5}
+{"name": "guarante", "size": 4}
+{"name": "guess", "size": 4}
+{"name": "gui", "size": 5}
+{"name": "guid", "size": 5}
+{"name": "hand", "size": 5}
+{"name": "handl", "size": 5}{"name": "handl_question", "size": 1}
+{"name": "hang", "size": 3}
+{"name": "happen", "size": 5}
+{"name": "happi", "size": 5}
+{"name": "hard", "size": 5}
+{"name": "hassl", "size": 5}{"name": "hassl_free", "size": 3}
+{"name": "havent", "size": 5}
+{"name": "hear", "size": 5}
+{"name": "heard", "size": 5}
+{"name": "held", "size": 3}
+{"name": "help", "size": 5}{"name": "help_answer", "size": 1}{"name": "help_problem", "size": 5}{"name": "help_question", "size": 1}
+{"name": "helpful", "size": 4}
+{"name": "hesit", "size": 3}
+{"name": "high", "size": 5}{"name": "high_answer", "size": 1}
+{"name": "highli", "size": 5}
+{"name": "hold", "size": 4}{"name": "hold_monei", "size": 3}
+{"name": "honest", "size": 5}{"name": "honest_answer", "size": 1}
+{"name": "honestli", "size": 2}
+{"name": "hope", "size": 4}
+{"name": "hour", "size": 4}
+{"name": "human", "size": 5}
+{"name": "hung", "size": 4}
+{"name": "hurri", "size": 1}
+{"name": "id", "size": 5}
+{"name": "idea", "size": 4}
+{"name": "ill", "size": 3}
+{"name": "im", "size": 5}
+{"name": "immedi", "size": 5}
+{"name": "import", "size": 5}
+{"name": "imposs", "size": 4}
+{"name": "impress", "size": 5}
+{"name": "improv", "size": 4}
+{"name": "individu", "size": 3}
+{"name": "info", "size": 5}{"name": "info_answer", "size": 1}
+{"name": "inform", "size": 5}{"name": "inform_answer", "size": 1}{"name": "inform_need", "size": 5}{"name": "inform_question", "size": 1}
+{"name": "initi", "size": 4}
+{"name": "inquiri", "size": 4}
+{"name": "instant", "size": 4}
+{"name": "instruct", "size": 5}
+{"name": "insur", "size": 4}
+{"name": "intellig", "size": 2}
+{"name": "interest", "size": 5}
+{"name": "intern", "size": 4}
+{"name": "internet", "size": 5}{"name": "internet_answer", "size": 1}
+{"name": "investig", "size": 5}
+{"name": "invoic", "size": 4}
+{"name": "involv", "size": 5}
+{"name": "isnt", "size": 3}
+{"name": "issu", "size": 5}{"name": "issu_answer", "size": 1}{"name": "issu_resolv", "size": 4}
+{"name": "item", "size": 5}{"name": "item_answer", "size": 1}
+{"name": "iv", "size": 5}{"name": "iv_problem", "size": 2}
+{"name": "job", "size": 4}
+{"name": "join", "size": 2}
+{"name": "kind", "size": 5}
+{"name": "knew", "size": 4}{"name": "knew_answer", "size": 3}
+{"name": "knowledg", "size": 5}{"name": "knowledg_answer", "size": 1}{"name": "knowledg_question", "size": 1}
+{"name": "knowleg", "size": 4}
+{"name": "lack", "size": 4}
+{"name": "ladi", "size": 5}
+{"name": "languag", "size": 5}
+{"name": "learn", "size": 5}
+{"name": "left", "size": 3}
+{"name": "limit", "size": 5}
+{"name": "line", "size": 5}{"name": "line_answer", "size": 1}
+{"name": "link", "size": 5}
+{"name": "list", "size": 4}
+{"name": "listen", "size": 5}{"name": "listen_answer", "size": 1}{"name": "listen_carefulli", "size": 3}{"name": "listen_problem", "size": 5}{"name": "listen_question", "size": 2}
+{"name": "live", "size": 5}{"name": "live_person", "size": 2}
+{"name": "long", "size": 5}{"name": "long_time", "size": 3}
+{"name": "longer", "size": 3}
+{"name": "look", "size": 5}
+{"name": "lost", "size": 3}
+{"name": "lot", "size": 5}
+{"name": "love", "size": 5}
+{"name": "low", "size": 1}
+{"name": "lower", "size": 4}{"name": "lower_fee", "size": 4}
+{"name": "machin", "size": 2}
+{"name": "made", "size": 5}{"name": "made_answer", "size": 1}{"name": "made_feel", "size": 5}{"name": "made_question", "size": 1}{"name": "made_understood", "size": 2}
+{"name": "mail", "size": 5}
+{"name": "make", "size": 5}{"name": "make_easier", "size": 3}{"name": "make_feel", "size": 5}{"name": "make_onlin", "size": 2}{"name": "make_payment", "size": 5}{"name": "make_purchas", "size": 5}{"name": "make_question", "size": 1}{"name": "make_transact", "size": 3}
+{"name": "manag", "size": 5}
+{"name": "manner", "size": 5}
+{"name": "matter", "size": 5}
+{"name": "member", "size": 3}
+{"name": "mention", "size": 4}
+{"name": "merchant", "size": 5}
+{"name": "messag", "size": 3}
+{"name": "method", "size": 5}{"name": "method_payment", "size": 4}
+{"name": "mind", "size": 5}
+{"name": "minut", "size": 5}
+{"name": "monei", "size": 5}{"name": "monei_account", "size": 4}{"name": "monei_answer", "size": 1}{"name": "monei_back", "size": 4}{"name": "monei_paypal", "size": 4}{"name": "monei_safe", "size": 3}{"name": "monei_transact", "size": 3}{"name": "monei_transfer", "size": 3}
+{"name": "month", "size": 4}
+{"name": "move", "size": 4}
+{"name": "navig", "size": 4}
+{"name": "need", "size": 5}{"name": "need_answer", "size": 1}
+{"name": "nice", "size": 5}{"name": "nice_answer", "size": 1}
+{"name": "number", "size": 5}
+{"name": "occur", "size": 5}
+{"name": "offer", "size": 5}
+{"name": "onlin", "size": 5}{"name": "onlin_answer", "size": 1}{"name": "onlin_payment", "size": 3}{"name": "onlin_purchas", "size": 4}{"name": "onlin_shop", "size": 2}{"name": "onlin_transact", "size": 3}
+{"name": "open", "size": 5}
+{"name": "oper", "size": 5}
+{"name": "opinion", "size": 4}
+{"name": "option", "size": 5}
+{"name": "order", "size": 5}
+{"name": "organ", "size": 4}
+{"name": "origin", "size": 2}
+{"name": "outstand", "size": 4}
+{"name": "page", "size": 4}
+{"name": "pai", "size": 5}{"name": "pai_answer", "size": 1}{"name": "pai_bill", "size": 3}{"name": "pai_good", "size": 3}{"name": "pai_internet", "size": 3}{"name": "pai_item", "size": 4}{"name": "pai_onlin", "size": 3}{"name": "pai_paid", "size": 2}{"name": "pai_pal", "size": 5}{"name": "pai_paypal", "size": 4}{"name": "pai_purchas", "size": 4}{"name": "pai_receiv", "size": 2}{"name": "pai_thing", "size": 4}
+{"name": "paid", "size": 5}{"name": "paid_answer", "size": 1}
+{"name": "pal", "size": 5}{"name": "pal_answer", "size": 1}
+{"name": "part", "size": 5}
+{"name": "parti", "size": 5}
+{"name": "pass", "size": 4}
+{"name": "password", "size": 5}
+{"name": "past", "size": 4}
+{"name": "patienc", "size": 5}
+{"name": "patient", "size": 5}{"name": "patient_answer", "size": 1}{"name": "patient_question", "size": 1}
+{"name": "payment", "size": 5}{"name": "payment_answer", "size": 1}{"name": "payment_method", "size": 3}{"name": "payment_onlin", "size": 3}
+{"name": "paypal", "size": 5}{"name": "paypal_account", "size": 5}{"name": "paypal_answer", "size": 2}{"name": "paypal_conveni", "size": 2}{"name": "paypal_easi", "size": 3}{"name": "paypal_great", "size": 5}{"name": "paypal_question", "size": 1}{"name": "paypal_safe", "size": 5}{"name": "paypal_secur", "size": 5}{"name": "paypal_servic", "size": 3}{"name": "paypal_work", "size": 5}{"name": "paypal_year", "size": 5}
+{"name": "pend", "size": 5}
+{"name": "peopl", "size": 5}{"name": "peopl_answer", "size": 1}
+{"name": "perfect", "size": 5}{"name": "perfect_answer", "size": 1}
+{"name": "perfectli", "size": 1}
+{"name": "person", "size": 5}{"name": "person_answer", "size": 1}{"name": "person_spoke", "size": 3}
+{"name": "phone", "size": 5}{"name": "phone_answer", "size": 1}{"name": "phone_call", "size": 4}{"name": "phone_number", "size": 3}
+{"name": "place", "size": 5}
+{"name": "pleas", "size": 5}
+{"name": "pleasant", "size": 5}{"name": "pleasant_answer", "size": 1}
+{"name": "point", "size": 5}{"name": "point_answer", "size": 1}
+{"name": "polici", "size": 5}
+{"name": "polit", "size": 5}{"name": "polit_answer", "size": 1}{"name": "polit_help", "size": 4}
+{"name": "poor", "size": 3}
+{"name": "posit", "size": 5}
+{"name": "precis", "size": 4}{"name": "precis_answer", "size": 1}
+{"name": "prefer", "size": 4}
+{"name": "pretti", "size": 5}
+{"name": "previou", "size": 3}
+{"name": "price", "size": 2}
+{"name": "privat", "size": 4}
+{"name": "problem", "size": 5}{"name": "problem_answer", "size": 1}{"name": "problem_paypal", "size": 5}{"name": "problem_question", "size": 1}{"name": "problem_quickli", "size": 5}{"name": "problem_resolv", "size": 5}
+{"name": "procedur", "size": 5}
+{"name": "process", "size": 5}{"name": "process_answer", "size": 1}
+{"name": "product", "size": 5}
+{"name": "profession", "size": 5}{"name": "profession_answer", "size": 1}{"name": "profession_manner", "size": 3}
+{"name": "program", "size": 5}
+{"name": "prompt", "size": 5}{"name": "prompt_answer", "size": 1}
+{"name": "promptli", "size": 5}{"name": "promptli_answer", "size": 1}
+{"name": "proper", "size": 3}
+{"name": "properli", "size": 4}
+{"name": "protect", "size": 5}{"name": "protect_answer", "size": 1}
+{"name": "provid", "size": 5}{"name": "provid_answer", "size": 1}
+{"name": "purchas", "size": 5}{"name": "purchas_answer", "size": 1}{"name": "purchas_item", "size": 5}{"name": "purchas_onlin", "size": 2}
+{"name": "put", "size": 5}{"name": "put_hold", "size": 3}
+{"name": "queri", "size": 5}{"name": "queri_answer", "size": 1}{"name": "queri_quickli", "size": 1}
+{"name": "question", "size": 5}{"name": "question_account", "size": 1}{"name": "question_accur", "size": 1}{"name": "question_address", "size": 1}{"name": "question_answer", "size": 2}{"name": "question_ask", "size": 1}{"name": "question_call", "size": 1}{"name": "question_care", "size": 1}{"name": "question_clear", "size": 1}{"name": "question_complet", "size": 1}{"name": "question_concern", "size": 1}{"name": "question_concis", "size": 1}{"name": "question_confid", "size": 1}{"name": "question_correctli", "size": 1}{"name": "question_courteou", "size": 1}{"name": "question_custom", "size": 1}{"name": "question_detail", "size": 1}{"name": "question_didnt", "size": 1}{"name": "question_direct", "size": 1}{"name": "question_directli", "size": 1}{"name": "question_dont", "size": 1}{"name": "question_eas", "size": 1}{"name": "question_easi", "size": 1}{"name": "question_easili", "size": 1}{"name": "question_effect", "size": 1}{"name": "question_effici", "size": 1}{"name": "question_email", "size": 1}{"name": "question_explain", "size": 1}{"name": "question_fast", "size": 1}{"name": "question_fix", "size": 1}{"name": "question_friendli", "size": 1}{"name": "question_full", "size": 1}{"name": "question_fulli", "size": 1}{"name": "question_gave", "size": 1}{"name": "question_give", "size": 1}{"name": "question_good", "size": 1}{"name": "question_great", "size": 1}{"name": "question_help", "size": 1}{"name": "question_hesit", "size": 1}{"name": "question_honestli", "size": 1}{"name": "question_immedi", "size": 1}{"name": "question_inform", "size": 1}{"name": "question_issu", "size": 1}{"name": "question_knew", "size": 2}{"name": "question_knowledg", "size": 1}{"name": "question_listen", "size": 1}{"name": "question_made", "size": 1}{"name": "question_make", "size": 1}{"name": "question_need", "size": 1}{"name": "question_nice", "size": 1}{"name": "question_offer", "size": 1}{"name": "question_patient", "size": 1}{"name": "question_payment", "size": 1}{"name": "question_paypal", "size": 1}{"name": "question_pleasant", "size": 1}{"name": "question_point", "size": 1}{"name": "question_polit", "size": 1}{"name": "question_problem", "size": 1}{"name": "question_profession", "size": 1}{"name": "question_promptli", "size": 1}{"name": "question_provid", "size": 1}{"name": "question_put", "size": 1}{"name": "question_question", "size": 1}{"name": "question_quick", "size": 1}{"name": "question_quickli", "size": 1}{"name": "question_reassur", "size": 1}{"name": "question_repres", "size": 1}{"name": "question_resolv", "size": 1}{"name": "question_respond", "size": 1}{"name": "question_satisfact", "size": 1}{"name": "question_satisfactorili", "size": 1}{"name": "question_satisfi", "size": 1}{"name": "question_simpl", "size": 1}{"name": "question_simpli", "size": 1}{"name": "question_solv", "size": 1}{"name": "question_specif", "size": 1}{"name": "question_straight", "size": 1}{"name": "question_time", "size": 1}{"name": "question_told", "size": 1}{"name": "question_transfer", "size": 1}{"name": "question_understand", "size": 1}{"name": "question_understood", "size": 1}{"name": "question_wait", "size": 1}{"name": "question_walk", "size": 1}{"name": "question_wasnt", "size": 1}
+{"name": "quick", "size": 5}{"name": "quick_answer", "size": 1}{"name": "quick_easi", "size": 4}{"name": "quick_respons", "size": 2}{"name": "quick_safe", "size": 2}{"name": "quick_secur", "size": 2}
+{"name": "quicker", "size": 4}
+{"name": "quickli", "size": 5}{"name": "quickli_accur", "size": 1}{"name": "quickli_answer", "size": 1}{"name": "quickli_effici", "size": 3}{"name": "quickli_gave", "size": 1}{"name": "quickli_polit", "size": 2}{"name": "quickli_profession", "size": 2}
+{"name": "rate", "size": 5}
+{"name": "reach", "size": 4}
+{"name": "read", "size": 4}
+{"name": "readi", "size": 4}
+{"name": "readili", "size": 1}
+{"name": "real", "size": 5}{"name": "real_person", "size": 3}
+{"name": "reason", "size": 5}{"name": "reason_answer", "size": 1}
+{"name": "reassur", "size": 5}
+{"name": "receiv", "size": 5}{"name": "receiv_answer", "size": 1}{"name": "receiv_monei", "size": 5}{"name": "receiv_payment", "size": 5}
+{"name": "recent", "size": 5}
+{"name": "reciev", "size": 5}
+{"name": "recomend", "size": 3}
+{"name": "recommend", "size": 5}{"name": "recommend_answer", "size": 1}{"name": "recommend_paypal", "size": 5}
+{"name": "record", "size": 5}
+{"name": "reduc", "size": 3}
+{"name": "refer", "size": 4}
+{"name": "refund", "size": 5}
+{"name": "relat", "size": 4}
+{"name": "releas", "size": 3}
+{"name": "relev", "size": 1}
+{"name": "reliabl", "size": 5}{"name": "reliabl_answer", "size": 1}{"name": "reliabl_servic", "size": 1}
+{"name": "rememb", "size": 5}
+{"name": "remov", "size": 4}
+{"name": "rep", "size": 5}{"name": "rep_answer", "size": 1}
+{"name": "repeat", "size": 5}
+{"name": "repli", "size": 4}
+{"name": "repres", "size": 5}{"name": "repres_answer", "size": 1}
+{"name": "request", "size": 5}
+{"name": "requir", "size": 5}
+{"name": "research", "size": 3}{"name": "research_question", "size": 1}
+{"name": "resolut", "size": 5}
+{"name": "resolv", "size": 5}{"name": "resolv_issu", "size": 5}{"name": "resolv_problem", "size": 5}{"name": "resolv_question", "size": 1}
+{"name": "respect", "size": 5}
+{"name": "respond", "size": 5}{"name": "respond_question", "size": 1}
+{"name": "respons", "size": 5}{"name": "respons_answer", "size": 1}{"name": "respons_question", "size": 1}
+{"name": "result", "size": 5}
+{"name": "return", "size": 4}
+{"name": "review", "size": 3}
+{"name": "robot", "size": 1}
+{"name": "rude", "size": 4}
+{"name": "rule", "size": 4}
+{"name": "run", "size": 5}
+{"name": "rush", "size": 5}
+{"name": "safe", "size": 5}{"name": "safe_answer", "size": 1}{"name": "safe_bui", "size": 4}{"name": "safe_conveni", "size": 3}{"name": "safe_easi", "size": 4}{"name": "safe_effici", "size": 2}{"name": "safe_fast", "size": 3}{"name": "safe_make", "size": 2}{"name": "safe_pai", "size": 4}{"name": "safe_paypal", "size": 2}{"name": "safe_purchas", "size": 3}{"name": "safe_quick", "size": 3}{"name": "safe_reliabl", "size": 3}{"name": "safe_secur", "size": 5}{"name": "safe_send", "size": 3}{"name": "safe_transact", "size": 3}
+{"name": "safer", "size": 5}
+{"name": "safest", "size": 5}{"name": "safest_pai", "size": 2}{"name": "safest_send", "size": 2}
+{"name": "safeti", "size": 4}
+{"name": "sale", "size": 5}
+{"name": "satisfact", "size": 5}
+{"name": "satisfactori", "size": 2}{"name": "satisfactori_answer", "size": 1}
+{"name": "satisfactorili", "size": 1}
+{"name": "satisfi", "size": 5}{"name": "satisfi_answer", "size": 1}
+{"name": "save", "size": 5}
+{"name": "scam", "size": 5}
+{"name": "screen", "size": 3}
+{"name": "script", "size": 4}
+{"name": "search", "size": 1}
+{"name": "secur", "size": 5}{"name": "secur_answer", "size": 1}{"name": "secur_conveni", "size": 2}{"name": "secur_easi", "size": 3}{"name": "secur_fast", "size": 3}{"name": "secur_make", "size": 2}{"name": "secur_method", "size": 2}{"name": "secur_pai", "size": 3}{"name": "secur_payment", "size": 2}{"name": "secur_question", "size": 1}{"name": "secur_quick", "size": 2}{"name": "secur_safe", "size": 2}{"name": "secur_send", "size": 3}{"name": "secur_site", "size": 3}{"name": "secur_transact", "size": 2}
+{"name": "sell", "size": 5}
+{"name": "seller", "size": 5}{"name": "seller_answer", "size": 1}
+{"name": "send", "size": 5}{"name": "send_monei", "size": 5}{"name": "send_payment", "size": 4}{"name": "send_receiv", "size": 5}
+{"name": "sens", "size": 5}
+{"name": "servic", "size": 5}{"name": "servic_answer", "size": 1}{"name": "servic_easi", "size": 3}{"name": "servic_excel", "size": 4}{"name": "servic_good", "size": 3}{"name": "servic_great", "size": 4}{"name": "servic_help", "size": 5}{"name": "servic_paypal", "size": 3}{"name": "servic_rep", "size": 4}
+{"name": "set", "size": 5}{"name": "set_account", "size": 5}
+{"name": "setup", "size": 5}
+{"name": "share", "size": 2}
+{"name": "ship", "size": 5}
+{"name": "shop", "size": 5}{"name": "shop_onlin", "size": 3}
+{"name": "short", "size": 4}
+{"name": "show", "size": 5}
+{"name": "side", "size": 3}
+{"name": "sign", "size": 5}
+{"name": "simpl", "size": 5}{"name": "simpl_answer", "size": 1}{"name": "simpl_easi", "size": 2}{"name": "simpl_question", "size": 1}
+{"name": "simpli", "size": 5}{"name": "simpli_answer", "size": 1}
+{"name": "site", "size": 5}{"name": "site_answer", "size": 1}
+{"name": "situat", "size": 5}
+{"name": "slow", "size": 4}
+{"name": "small", "size": 4}
+{"name": "solut", "size": 5}
+{"name": "solv", "size": 5}{"name": "solv_issu", "size": 5}{"name": "solv_problem", "size": 5}{"name": "solv_question", "size": 1}
+{"name": "sort", "size": 5}
+{"name": "sound", "size": 5}
+{"name": "sourc", "size": 4}
+{"name": "speak", "size": 5}{"name": "speak_english", "size": 3}
+{"name": "specif", "size": 5}{"name": "specif_answer", "size": 1}{"name": "specif_question", "size": 1}
+{"name": "speed", "size": 3}
+{"name": "spend", "size": 4}
+{"name": "spent", "size": 3}
+{"name": "spoke", "size": 5}{"name": "spoke_english", "size": 5}
+{"name": "spoof", "size": 5}
+{"name": "staff", "size": 5}
+{"name": "stai", "size": 5}{"name": "stai_phone", "size": 5}
+{"name": "standard", "size": 2}
+{"name": "start", "size": 5}
+{"name": "state", "size": 4}
+{"name": "statement", "size": 4}
+{"name": "step", "size": 5}{"name": "step_step", "size": 4}
+{"name": "stop", "size": 5}
+{"name": "store", "size": 4}
+{"name": "straight", "size": 5}{"name": "straight_answer", "size": 1}{"name": "straight_forward", "size": 2}{"name": "straight_point", "size": 3}
+{"name": "straightforward", "size": 1}
+{"name": "stuff", "size": 4}
+{"name": "stupid", "size": 3}
+{"name": "succinctli", "size": 1}
+{"name": "suggest", "size": 5}
+{"name": "super", "size": 2}
+{"name": "supervisor", "size": 4}
+{"name": "support", "size": 5}{"name": "support_answer", "size": 1}
+{"name": "suppos", "size": 4}
+{"name": "survei", "size": 4}
+{"name": "system", "size": 5}{"name": "system_answer", "size": 1}
+{"name": "take", "size": 5}{"name": "take_long", "size": 3}
+{"name": "talk", "size": 5}{"name": "talk_answer", "size": 2}{"name": "talk_real", "size": 1}
+{"name": "technic", "size": 3}
+{"name": "telephon", "size": 5}
+{"name": "tell", "size": 5}
+{"name": "term", "size": 4}
+{"name": "thing", "size": 5}{"name": "thing_answer", "size": 1}{"name": "thing_onlin", "size": 3}
+{"name": "thought", "size": 5}
+{"name": "till", "size": 4}
+{"name": "time", "size": 5}{"name": "time_answer", "size": 1}{"name": "time_explain", "size": 4}{"name": "time_listen", "size": 2}{"name": "time_manner", "size": 4}{"name": "time_question", "size": 1}
+{"name": "todai", "size": 4}
+{"name": "told", "size": 5}{"name": "told_answer", "size": 1}
+{"name": "total", "size": 5}
+{"name": "track", "size": 5}
+{"name": "train", "size": 4}
+{"name": "transact", "size": 5}{"name": "transact_answer", "size": 1}
+{"name": "transfer", "size": 5}{"name": "transfer_fund", "size": 3}{"name": "transfer_monei", "size": 4}
+{"name": "treat", "size": 5}
+{"name": "troubl", "size": 5}
+{"name": "trust", "size": 5}{"name": "trust_answer", "size": 1}
+{"name": "trustworthi", "size": 4}
+{"name": "turn", "size": 4}
+{"name": "type", "size": 4}
+{"name": "unabl", "size": 5}
+{"name": "understand", "size": 5}{"name": "understand_answer", "size": 1}{"name": "understand_question", "size": 1}
+{"name": "understood", "size": 5}{"name": "understood_answer", "size": 1}{"name": "understood_question", "size": 2}
+{"name": "user", "size": 5}{"name": "user_friendli", "size": 5}
+{"name": "vagu", "size": 1}
+{"name": "vendor", "size": 5}
+{"name": "verif", "size": 2}
+{"name": "verifi", "size": 5}
+{"name": "voic", "size": 5}
+{"name": "wai", "size": 4}
+{"name": "wait", "size": 5}{"name": "wait_answer", "size": 1}
+{"name": "walk", "size": 5}{"name": "walk_process", "size": 4}
+{"name": "want", "size": 5}
+{"name": "wasnt", "size": 5}{"name": "wasnt_answer", "size": 1}
+{"name": "wast", "size": 4}{"name": "wast_time", "size": 4}
+{"name": "web", "size": 5}{"name": "web_site", "size": 4}
+{"name": "websit", "size": 5}
+{"name": "week", "size": 4}
+{"name": "wide", "size": 3}{"name": "wide_accept", "size": 2}
+{"name": "wonder", "size": 5}
+{"name": "wont", "size": 4}
+{"name": "word", "size": 5}
+{"name": "work", "size": 5}{"name": "work_answer", "size": 1}{"name": "work_great", "size": 3}
+{"name": "world", "size": 5}
+{"name": "worri", "size": 5}
+{"name": "wouldnt", "size": 4}
+{"name": "wrong", "size": 5}{"name": "wrong_answer", "size": 1}
+{"name": "year", "size": 5}
+{"name": "youll", "size": 2}
+{"name": "your", "size": 4}
+

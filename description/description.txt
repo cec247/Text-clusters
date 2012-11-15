@@ -1,0 +1,31 @@
+The attached sketch folder contains a processing.js (http://processingjs.org/) sketch. To view it:
+
+(instructions are for OSX)
+1) open Terminal
+2) cd to the directory containing the sketch
+3) run this command: "python -m SimpleHttpServer"
+4) Open your web browser and point it to http://0.0.0.0:8000
+
+The file sketch.png is a screenshot of the sketch when it is running.
+
+This processing sketch was whipped together to explore a data set.
+The data set is raw text from ~90,000 survey responses. 
+One of my colleagues identified 5 "clusters" in the responses. These clusters are groups of "similar" responses.
+The goal of this visualization is to show which terms are associated with which clusters, and if there's an overall meaning or sentiment associated with each cluster.
+
+The file data.js contains a summary of the data:
+    var terms: an array of the terms used in the data. (these have been stemmed, so some of them aren't real words)
+    var counts: the number of clusters each term appears in. This ranges from 1 to 5.
+    var clusters: An array of 5 subarrays. Each subarray corresponds to a cluster. 
+        Each subarray consists of indexes into the terms array, which tells you which terms the cluster contains.
+
+Your mission: 
+    1) Critique the original sketch -- how can it be improved?
+    2) Come up with one or more of your own ideas for visualizing this data, and describe them. 
+       Include sketches (photos of paper sketches is fine).
+    3) For full points, either implement your improvements from 1), or one of your ideas from 2).
+       Return a screenshot of your sketch along with the code.
+
+If you have any questions, feel free to ask.
+
+
